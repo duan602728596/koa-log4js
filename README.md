@@ -2,6 +2,8 @@
 A wrapper for [log4js-node](https://github.com/nomiddlename/log4js-node) which support [Koa](https://github.com/koajs/koa) logger middleware.
 Log message is forked from Express (Connect) logger [file](https://github.com/nomiddlename/log4js-node/blob/master/lib/connect-logger.js).
 
+> Forked from [koa-log4js](https://github.com/dominhhai/koa-log4js).
+
 ## Note
 This branch is use to [Koa v2.x](https://github.com/koajs/koa/tree/v2.x).
 To use Koa v0.x & v1.x, please check the [master](https://github.com/dominhhai/koa-log4js/tree/master) branch.
